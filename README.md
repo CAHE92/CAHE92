@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, aqui inicio minha nova jornada 👋
 
 <!--
 **CAHE92/CAHE92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
