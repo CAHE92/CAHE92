@@ -1,4 +1,7 @@
-## Olá, aqui inicio minha nova jornada 👋
+## Olá, aqui inicio minha nova jornada👋
+  Atualmente atuo como funcionário público, onde desenvolvi habilidades como organização, responsabilidade, foco em resultados e trabalho em equipe. Movido por um forte interesse em tecnologia, iniciei uma nova trajetória profissional ao ingressar no curso de Análise e Desenvolvimento de Sistemas.
+
+Além da graduação, estou me especializando com cursos de Java e Inglês, buscando construir uma base sólida para atuar na área de tecnologia da informação.Interesses: Desenvolvimento Web, Lógica de Programação, Banco de Dados, Java, Aprendizado Contínuo e Comunicação em Inglês.
 
 <!--
 **CAHE92/CAHE92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
